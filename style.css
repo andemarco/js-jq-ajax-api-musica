@@ -70,3 +70,6 @@ header img {
 .handlebar {
   display: none;
 }
+select {
+  width: 100%;
+}
